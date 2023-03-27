@@ -5,5 +5,5 @@
 # Circuit diagram: Four external LEDs to Raspberry Pi Pico W
 
 <p align="center">
-  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/3f64699fdfa14c6a0aa59673538d96523fab4e4e/Blink/4%20LEDs%20to%20RPi%20Pico%20W_bb.png" alt="Circuit diagram - Push Button and an external LED conencted to Raspberry Pi Pico W">
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/75c0898a71a9de2fb2399c23a310e943f8a8cd45/Push%20Button/Push-Button-LED-to-RPi-Pico-W_bb.png" alt="Circuit diagram - Push Button and an external LED conencted to Raspberry Pi Pico W">
 </p>
