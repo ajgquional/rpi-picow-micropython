@@ -8,17 +8,17 @@
 # Circuit diagram: LED (brightness controllable via PWM) to Raspberry Pi Pico W
 
 <p align="center">
-  <img src="Analog IO/LED-PWM-Fade-to-RPi-Pico-W_bb.png" alt="Circuit diagram - LED (brightntess controllable via PWM) conencted to Raspberry Pi Pico W">
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/cec1ded75e78a5adfb04488fe5f74b276e5f69fd/Analog%20IO/LED-PWM-Fade-to-RPi-Pico-W_bb.png" alt="Circuit diagram - LED (brightntess controllable via PWM) conencted to Raspberry Pi Pico W">
 </p>
 
 # Circuit diagram: Potentiometer to Raspberry Pi Pico W
 
 <p align="center">
-  <img src="Analog IO/Pot-to-RPi-Pico-W_bb.png" alt="Circuit diagram - Potentiometer conencted to Raspberry Pi Pico W">
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/cec1ded75e78a5adfb04488fe5f74b276e5f69fd/Analog%20IO/Pot-to-RPi-Pico-W_bb.png" alt="Circuit diagram - Potentiometer conencted to Raspberry Pi Pico W">
 </p>
 
 # Circuit diagram: Potentiometer and LED to Raspberry Pi Pico W
 
 <p align="center">
-  <img src="Analog IO/Pot-LED-PWM-Fade-to-RPi-Pico-W_bb.png" alt="Circuit diagram - Potentiometer and LED conencted to Raspberry Pi Pico W">
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/cec1ded75e78a5adfb04488fe5f74b276e5f69fd/Analog%20IO/Pot-LED-PWM-Fade-to-RPi-Pico-W_bb.png" alt="Circuit diagram - Potentiometer and LED conencted to Raspberry Pi Pico W">
 </p>
