@@ -1,6 +1,6 @@
 # Wokwi Raspberry Pi Pico Simulation Link
 
-* Push Button and an external LED: [https://wokwi.com/projects/357620757080105985](https://wokwi.com/projects/357629785846167553)
+* <b> Push Button and an external LED: </b> [https://wokwi.com/projects/357620757080105985](https://wokwi.com/projects/357629785846167553)
 
 # Circuit diagram: Four external LEDs to Raspberry Pi Pico W
 
