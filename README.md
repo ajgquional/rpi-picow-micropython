@@ -41,14 +41,32 @@
 Once a script is run by the board, it doesn't automatically mean that it would run by default when power is given to the board. This is in contrast with downloading a sketch in an Arduino board. To enable the board run a script by default when power is given, the script must be saved to the Raspberry Pi Pico W itself. The steps are as follows:
 
 1. If a script is running, stop the script.
-2. Click "File" on the upper left corner of the Thonny IDE then click "Save as."
+2. Click "File" on the upper left corner of the Menu Bar of the Thonny IDE then click "Save as."
+3. A new window would appear asking where the script must be saved. Choose "Raspberry Pi Pico."
+4. Afterwards, a new window would appear allowing you to type the file name for the script. Type <b>main.py</b> as the file name (this is the required file name to enable Pico W to automatically run the script). Press OK. (Additional note: There is a "lib" folder when you save the script to Raspberry Pi Pico W. This is just the folder where the modules, installed in Pico W, would be located.)
+5. To verify that the script is already saved (as main.py) in Pico W, the file name displayed on the script tab above the actual script would change to `[main.py]` (emphasis on the square brackets). Also, if you enable the "Files" view to see the files (to be displayed as a sidebar to the left) in both the computer and Raspberry Pi Pico, you would see the file "main.py." (Note: To enable "Files" view, click "View" in the Menu Bar on top then click "Files.")
+6. As a final verification, disconnect the Pico W from your computer then plug it again. At the instance that power is applied to the board, Pico W will run the saved script. If the standard blink.py is saved as main.py, you would that the onboard LED of the Pico W blinking every second. Congratulations! You now know how to save a script to the Pico W.
 
-### Installing modules to the Raspberry Pi Pico W:
+### Installing modules to the Raspberry Pi Pico W (feat. picozero module):
+
+To install modules to the Raspberry Pi Pico W, first make sure that the board is plugged in to your computer. Then, you may follow any of the steps below.
+
+#### Via Thonny:
+
+1. Click 
+
+#### Via manual saving:
+
+1.
+
+#### Via the pip package manager:
+
+1.
 
 ### Useful links:
-* Raspberry Pi Pico and Pico W Documentation: https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html
-* MicroPython Documentation: https://docs.micropython.org/en/latest/index.html
-* picozero Documentation: https://picozero.readthedocs.io/en/latest/index.html
+* <b>Raspberry Pi Pico and Pico W Documentation:</b> https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html
+* <b>MicroPython Documentation:</b> https://docs.micropython.org/en/latest/index.html
+* <b>picozero Documentation:</b> https://picozero.readthedocs.io/en/latest/index.html
 
 # Notes on this repository:
 * Each directory contains MicroPython programs, README files (containing circuit diagrams, Wokwi simulation links, and other notes), Fritzing files, and/or steps to implement the project/program contained within the folder.
