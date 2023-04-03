@@ -51,22 +51,27 @@ Once a script is run by the board, it doesn't automatically mean that it would r
 
 To install modules to the Raspberry Pi Pico W, first make sure that the board is plugged in to your computer. Then, you may follow any of the steps below.
 
-#### Via Thonny:
+#### Via Tools menu in Thonny:
 
-1. Click 
+1. Click on Tools in the Menu Bar on top of the Thonny IDE then click "Manage Packages." A window would then appear showing the instructions how to install a module.
+2. In the search bar, type picozero then press enter or click "Search on PyPI."
+3. The module name that you have typed will appear in the selection. Click picozero. It would show the details of the module that you have selected. Once you have verified that it's the module that you wanted to install, click "Install" on the lower part of the window.
+4. A progress window would then appear showing the status of the installation. After installation, the progress window would disappear and you would see picozero in the left sidebar of the package manager window which shows the modules already installed. Furthermore, when picozero is selected, there are two options that appeared on the lower part of the window - "Upgrade" and "Uninstall" - rather than just "Install." This indicates that picozero is already installed in Pico W.
+5. As a last verification that picozero is already installed, show the files that are contained in Pico W (see Step 5 above to know how to enable the "Files" view) and you would see that inside the "lib" folder, there are picozero folders saved. Congratulations! You can now use the picozero module in your Pico W. (Note: Should you wish to install other modules, you can follow the same process.) 
 
 #### Via manual saving:
 
-1.
-
-#### Via the pip package manager:
-
-1.
+1. Look for the actual Python code of the module that you wanted to save in Pico W. For picozero, the code can be found here: https://raw.githubusercontent.com/RaspberryPiFoundation/picozero/master/picozero/picozero.py?token=GHSAT0AAAAAABRLTKWZDBSYBE54NJ7AIZ6MYSENI2A
+2. Copy and paste the entire code as a new file in Thonny.
+3. Save the file to Raspberry Pi Pico. Go inside the "lib" folder, and in there, save the file as "picozero.py."
+4. As a verification, you would see, when the "Files" view is enabled, that "picozero.py" is saved under the lib folder.
+5. As a final verification, open <a href="https://github.com/ajgquional/rpi-picow-micropython/blob/fbb70b24b01a84577c0d2e0c3a9aa24f74f51ccb/Blink/blink_picozero.py">blink_picozero.py</a> then run it. You should see that the onboard LED of Pico W blinking. (Note: Should you wish to install other modules not available via the Thonny Package Manager, you can follow the same process, outlined here, to install the necessary module/s.) 
 
 ### Useful links:
-* <b>Raspberry Pi Pico and Pico W Documentation:</b> https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html
+* <b>Raspberry Pi Pico/Pico W Documentation:</b> https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html
 * <b>MicroPython Documentation:</b> https://docs.micropython.org/en/latest/index.html
 * <b>picozero Documentation:</b> https://picozero.readthedocs.io/en/latest/index.html
+* <b>Arduino Labs for MicroPython (should you wish to use "Arduino" for MicroPython):</b> https://labs.arduino.cc/en/labs/micropython
 
 # Notes on this repository:
 * Each directory contains MicroPython programs, README files (containing circuit diagrams, Wokwi simulation links, and other notes), Fritzing files, and/or steps to implement the project/program contained within the folder.
