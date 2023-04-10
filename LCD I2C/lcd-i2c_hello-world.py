@@ -1,17 +1,21 @@
-# Project objectives: 
-#   Print a "Hello world!" text on the LCD screen to test its functionality
-#   Learn how to use I2C communication between the LCD and Raspberry Pi Pico
-#   Get familiarized with the pico_i2c_lcd and lcd_api modules
-#
-# Hardware and connections used:
-#   LCD GND Pin to Raspberry Pi Pico GND
-#   LCD VCC Pin to Raspberry Pi Pico VBUS
-#   (Note: VBUS is only to be used as power for the screen. 
-#   It can't be used as power for the entire circuit if there are other components interfaced.)
-#   LCD SDA Pin to Raspberry Pi Pico GPIO Pin 0
-#   LCD SCL Pin to Raspberry Pi Pico GPIO Pin 1
-#
-# Programmer: Adrian Josele G. Quional
+# ================================================== 
+""" 
+Project objectives: 
+    Print a "Hello world!" text on the LCD screen to test its functionality
+    Learn how to use I2C communication between the LCD and Raspberry Pi Pico W
+    Get familiarized with the pico_i2c_lcd and lcd_api modules
+
+Hardware and connections used:
+    LCD GND Pin to Raspberry Pi Pico GND
+    LCD VCC Pin to Raspberry Pi Pico VBUS
+    (Note: VBUS is only to be used as power for the screen. 
+    It can't be used as power for the entire circuit if there are other components interfaced.)
+    LCD SDA Pin to Raspberry Pi Pico GPIO Pin 0
+    LCD SCL Pin to Raspberry Pi Pico GPIO Pin 1
+    
+Author: Adrian Josele G. Quional
+"""
+# ==================================================
 
 # modules
 from machine import I2C, Pin    # since I2C communication would be used, I2C class is imported
