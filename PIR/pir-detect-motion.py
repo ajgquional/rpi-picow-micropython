@@ -1,11 +1,15 @@
-# Project objective: Use the PIR sensor to detect whether there's movement or not
-#
-# Hardware and connections used:
-#   PIR VCC to 3.3 V
-#   PIR GND to GND
-#   PIR D Pin to GPIO Pin 16
-#
-# Programmer: Adrian Josele G. Quional
+# ================================================== 
+""" 
+Project objective: Use the PIR sensor to detect whether there's movement or not
+
+Hardware and connections used:
+    PIR VCC to 3.3 V
+    PIR GND to GND
+    PIR D Pin to GPIO Pin 16
+
+Author: Adrian Josele G. Quional
+"""
+# ==================================================
 
 # modules
 from machine import Pin
