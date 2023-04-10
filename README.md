@@ -84,13 +84,45 @@ Once a script is run by the board, it doesn't automatically mean that it would r
 
 To install modules to the Raspberry Pi Pico W, first make sure that the board is plugged in to your computer. Then, you may follow any of the steps below.
 
-#### Via Tools menu in Thonny:
+#### Via the Tools menu in Thonny:
 
 1. Click on Tools in the Menu Bar on top of the Thonny IDE then click "Manage Packages." A window would then appear showing the instructions how to install a module.
-2. In the search bar, type picozero then press enter or click "Search on PyPI."
+
+<p align='center'>
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/4ea81efc9646a1d7f4095579e5a0e62de02f18ca/Installing-picozero-via-Tools-Part1.png" alt="Installing picozero via Tools Part 1">
+</p>
+
+<p align='center'>
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/4ea81efc9646a1d7f4095579e5a0e62de02f18ca/Installing-picozero-via-Tools-Part2.png" alt="Installing picozero via Tools Part 2">
+</p>
+
+2. In the search bar, type <b>picozero</b> then press enter or click "Search on PyPI."
+
+<p align='center'>
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/4ea81efc9646a1d7f4095579e5a0e62de02f18ca/Installing-picozero-via-Tools-Part3.png" alt="Installing picozero via Tools Part 3">
+</p>
+
 3. The module name that you have typed will appear in the selection. Click picozero. It would show the details of the module that you have selected. Once you have verified that it's the module that you wanted to install, click "Install" on the lower part of the window.
-4. A progress window would then appear showing the status of the installation. After installation, the progress window would disappear and you would see picozero in the left sidebar of the package manager window which shows the modules already installed. Furthermore, when picozero is selected, there are two options that appeared on the lower part of the window - "Upgrade" and "Uninstall" - rather than just "Install." This indicates that picozero is already installed in Pico W.
+
+<p align='center'>
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/4ea81efc9646a1d7f4095579e5a0e62de02f18ca/Installing-picozero-via-Tools-Part4.png" alt="Installing picozero via Tools Part 4">
+</p>
+
+4. A progress window would then appear showing the status of the installation. After installation, the progress window would disappear and you would see picozero in the left sidebar of the package manager window which shows the modules already installed. Furthermore, when picozero is selected, there are two options that will appear on the lower part of the window - "Upgrade" and "Uninstall" - rather than just "Install." This is another indication that picozero is already installed in Pico W.
+
+<p align='center'>
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/4ea81efc9646a1d7f4095579e5a0e62de02f18ca/Installing-picozero-via-Tools-Part5.png" alt="Installing picozero via Tools Part 5">
+</p>
+
+<p align='center'>
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/4ea81efc9646a1d7f4095579e5a0e62de02f18ca/Installing-picozero-via-Tools-Part6.png" alt="Installing picozero via Tools Part 6">
+</p>
+
 5. As a last verification that picozero is already installed, show the files that are contained in Pico W (see Step 5 above to know how to enable the "Files" view) and you would see that inside the "lib" folder, there are picozero folders saved. Congratulations! You can now use the picozero module in your Pico W. (Note: Should you wish to install other modules, you can follow the same process.) 
+
+<p align='center'>
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/4ea81efc9646a1d7f4095579e5a0e62de02f18ca/Installing-picozero-via-Tools-Part7.png" alt="Installing picozero via Tools Part 7">
+</p>
 
 #### Via manual saving:
 
