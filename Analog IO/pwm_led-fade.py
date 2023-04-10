@@ -1,10 +1,14 @@
-# Project objective: Fade the light of an external LED using PWM
-# 
-# Hardware and connections used:
-#   LED to GPIO Pin 15
-#   220 ohm resistor for the LED
-#
-# Programmer: Adrian Josele G. Quional
+# ================================================== 
+"""
+Project objective: Fade the light of an external LED using PWM
+ 
+Hardware and connections used:
+    LED to GPIO Pin 15
+    220 ohm resistor for the LED
+
+Author: Adrian Josele G. Quional
+"""
+# ================================================== 
 
 # modules
 from machine import Pin, PWM	# PWM class is needed to create a PWM object
