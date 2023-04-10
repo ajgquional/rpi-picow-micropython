@@ -23,12 +23,26 @@
 
 ### Getting started with programming the Raspberry Pi Pico W:
 
+#### Installing the MicroPython firmware:
+
 1. Download the MicroPython firmware for Raspberry Pi Pico W (link: https://micropython.org/download/rp2-pico-w/rp2-pico-w-latest.uf2).
 2. Push and hold the BOOTSEL button and plug your Pico W into the USB port of your computer. Release the BOOTSEL button after your Pico W is connected. It will mount as a Mass Storage Device called RPI-RP2.
-3. Drag and drop (or copy and paste) the MicroPython UF2 file onto the RPI-RP2 volume. Your Pico W will reboot. You are now running MicroPython.
+3. Drag and drop (or copy and paste) the MicroPython UF2 file onto the RPI-RP2 volume. Your Pico W will reboot. It is now running MicroPython.
+
+#### Installing the Thonny IDE:
+
 4. Install Thonny IDE (link: https://thonny.org/).
 5. Once Thonny is installed, open it. If Pico W is still plugged in into the computer, you should see on the lower right corner of the Thonny IDE that the Pico W is detected. Also, you would see that the Thonny shell is active and it says which MicroPython version is installed in your Pico W.
-6. To test if the MicroPython is really detected, type the command `print("Hello world!")` in the Thonny shell then press enter. If the text is printed after you entered the command, it means that you have successfully installed MicroPython to Raspberry Pi Pico W. Congratulations!
+
+<p align='center'>
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/4c4db31205459c176ff2e62cea10394aa111f15a/RPi-Pico-W-Detected.png" alt="RPi Pico W Detected">
+</p>
+
+6. To test if the MicroPython is really detected, type the command `print("Hello world!")` in the Thonny shell then press enter. If the text is printed after you've entered the command, it means that you have successfully installed MicroPython to Raspberry Pi Pico W. Congratulations! You can now program your Pico W!
+
+<p align='center'>
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/4c4db31205459c176ff2e62cea10394aa111f15a/MicroPython-Hello-World-Test.png" alt="MicroPython Hello World Test">
+</p>
 
 ### Running scripts/programs in the Raspberry Pi Pico W:
 
@@ -36,16 +50,35 @@
 2. To run a script, click the green play button in the toolbar on top. You should see a notification in the Thonny shell below that the script is running and (if you have used the Blink program) you should see the onboard LED of the Raspberry Pi Pico W blinking.
 3. To stop the script, click the red stop button in the toolbar on top.
 
+<p align='center'>
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/4c4db31205459c176ff2e62cea10394aa111f15a/RPi-Pico-W-Run-Script.png" alt="Running and stopping scripts in RPi Pico W">
+</p>
+
 ### Downloading a program and running it by default when power is given to Raspberry Pi Pico W:
 
-Once a script is run by the board, it doesn't automatically mean that it would run by default when power is given to the board. This is in contrast with downloading a sketch in an Arduino board. To enable the board run a script by default when power is given, the script must be saved to the Raspberry Pi Pico W itself. The steps are as follows:
+Once a script is run by the board, it doesn't automatically mean that it would run by default when power is given to the board. This is in contrast with downloading a sketch in an Arduino board where the sketch would automatically run when the Arduino board is given power (via the DC jack) disconnected from the computer. To enable the board to run a script by default when power is given to it, the script must be saved to the Raspberry Pi Pico W itself. The steps are as follows:
 
 1. If a script is running, stop the script.
 2. Click "File" on the upper left corner of the Menu Bar of the Thonny IDE then click "Save as."
 3. A new window would appear asking where the script must be saved. Choose "Raspberry Pi Pico."
-4. Afterwards, a new window would appear allowing you to type the file name for the script. Type <b>main.py</b> as the file name (this is the required file name to enable Pico W to automatically run the script). Press OK. (Additional note: There is a "lib" folder when you save the script to Raspberry Pi Pico W. This is just the folder where the modules, installed in Pico W, would be located.)
+
+<p align='center'>
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/4c4db31205459c176ff2e62cea10394aa111f15a/Saving-to-RPi-Pico-W-Part1.png" alt="Saving to RPi Pico W Part 1">
+</p>
+
+4. Afterwards, a new window would appear allowing you to type the file name for the script. Type <b>main.py</b> as the file name (this is the required file name to enable the Pico W to automatically run the script). Press OK. (Additional note: There is a "lib" folder when you save the script to Raspberry Pi Pico W. This is just the folder where the modules, installed in Pico W, would be located.)
+
+<p align='center'>
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/4c4db31205459c176ff2e62cea10394aa111f15a/Saving-to-RPi-Pico-W-Part2.png" alt="Saving to RPi Pico W Part 2">
+</p>
+
 5. To verify that the script is already saved (as main.py) in Pico W, the file name displayed on the script tab above the actual script would change to `[main.py]` (emphasis on the square brackets). Also, if you enable the "Files" view to see the files (to be displayed as a sidebar to the left) in both the computer and Raspberry Pi Pico, you would see the file "main.py." (Note: To enable "Files" view, click "View" in the Menu Bar on top then click "Files.")
-6. As a final verification, disconnect the Pico W from your computer then plug it again. At the instance that power is applied to the board, Pico W will run the saved script. If the standard blink.py is saved as main.py, you would that the onboard LED of the Pico W blinking every second. Congratulations! You now know how to save a script to the Pico W.
+
+<p align='center'>
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/4c4db31205459c176ff2e62cea10394aa111f15a/Saving-to-RPi-Pico-W-Part3.png" alt="Saving to RPi Pico W Part 3">
+</p>
+
+6. As a final verification, disconnect the Pico W from your computer then plug it again. At the instance that power is applied to the board, Pico W will run the saved script. If the standard blink.py is saved as main.py, you would that the onboard LED of the Pico W blinking every second. Congratulations! You now know how to save a script to the Pico W!
 
 ### Installing modules to the Raspberry Pi Pico W (feat. picozero module):
 
