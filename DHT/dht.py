@@ -1,14 +1,18 @@
-# Project objectives: 
-#   Read temperature and humidity values from the DHT22 sensor
-#   Display the sensor readings in the console
-#
-# Hardware connections used:
-#   DHT22 VCC Pin to 3.3V
-#   DHT22 SDA Pin to GPIO Pin 15
-#   10k ohm pull-up resistor from DHT22 SDA Pin to 3.3V (diregard if DHT22 is 3-pin)
-#   DHT22 GND Pin to GND
-#
-# Programmer: Adrian Josele G. Quional
+# ================================================== 
+""" 
+Project objectives: 
+    Read temperature and humidity values from the DHT22 sensor
+    Display the sensor readings in the console
+    
+Hardware and connections used:
+    DHT22 VCC Pin to 3.3V
+    DHT22 SDA Pin to GPIO Pin 15
+    10k ohm pull-up resistor from DHT22 SDA Pin to 3.3V (diregard if DHT22 is 3-pin)
+    DHT22 GND Pin to GND
+
+Author: Adrian Josele G. Quional
+"""
+# ==================================================
 
 # modules
 from machine import Pin
