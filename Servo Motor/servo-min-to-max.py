@@ -1,11 +1,15 @@
-# Project objective: Gradually move the servo arm to its min to max position (at 100 increaments) and vice-versa
-#
-# Hardware and connections used:
-#   Servo GND to Raspberry Pi Pico GND
-#   Servo V+ to Raspberry Pi Pico 3.3 V
-#   Servo PWM pin to GPIO Pin 15
-# 
-# Programmer: Adrian Josele G. Quional
+# ================================================== 
+""" 
+Project objective: Gradually move the servo arm to its min to max position (at 100 increments) and vice-versa
+
+Hardware and connections used:
+    Servo GND to Raspberry Pi Pico W GND
+    Servo V+ to Raspberry Pi Pico W 3.3 V
+    Servo PWM pin to GPIO Pin 15
+
+Author: Adrian Josele G. Quional
+"""
+# ==================================================
 
 # modules
 from picozero import Servo  # importing Servo class to easily control the servo motor
