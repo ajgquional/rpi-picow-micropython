@@ -1,12 +1,16 @@
-# Project object: Acquire distance measurements and print the values to the console
-#
-# Hardware and connections used:
-#   Ultrasonic Distance Sensor VCC to 3.3 V
-#   Ultrasonic Distance Sensor to GND
-#   Ultrasonic Distance Sensor TRIG Pin to GPIO Pin 15
-#   Ultrasonic Distance Sensor ECHO Pin to GPIO Pin 14
-#
-# Programmer: Adrian Josele G. Quional
+# ================================================== 
+""" 
+Project objective: Acquire distance measurements and print the values to the console
+
+Hardware and connections used:
+    Ultrasonic Distance Sensor VCC to Raspberry Pi Pico W 3.3 V
+    Ultrasonic Distance Sensor to Raspberry Pi Pico W GND
+    Ultrasonic Distance Sensor TRIG Pin to GPIO Pin 15
+    Ultrasonic Distance Sensor ECHO Pin to GPIO Pin 14
+
+Author: Adrian Josele G. Quional
+"""
+# ==================================================
 
 # modules
 from picozero import DistanceSensor     # importing the DistanceSensor class to easily handle distance calculations
