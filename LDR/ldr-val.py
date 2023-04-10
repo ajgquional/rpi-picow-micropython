@@ -1,14 +1,19 @@
-# Project objectives:
-#	Read voltage from an LDR circuit
-#	Convert readings from LDR to voltage
-#
-# Hardware and connections used:
-#	LDR and a 10k ohm resistor in series (specifically a voltage divider network)
-#	LDR connected to 3.3 V (reference voltage)
-#	10k ohm resistor connected to GND
-#	Overlap of LDR and 10k ohm resistor connected to GPIO Pin 28 (capable of ADC)
-#
-# Programmer: Adrian Josele G. Quional
+# ================================================== 
+""" 
+Project objectives:
+    Read voltage from an LDR circuit
+    Convert readings from LDR to voltage
+    Print readings to the console
+
+Hardware and connections used:
+    LDR and a 10k ohm resistor in series (specifically a voltage divider network)
+    LDR connected to 3.3 V (reference voltage)
+    10k ohm resistor connected to GND
+    Overlap of LDR and 10k ohm resistor connected to GPIO Pin 28 (capable of ADC)
+
+Author: Adrian Josele G. Quional
+"""
+# ==================================================
 
 # modules
 from machine import ADC, Pin
