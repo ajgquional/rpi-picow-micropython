@@ -1,10 +1,14 @@
-# Project objective: Blink four external LEDs connected to the Raspberry Pi Pico W using for loop
-#
-# Hardware and connections used:
-#   Anode of four LEDs to GPIO pins 6-9 of Raspberry Pi Pico W
-#   220 ohm resistor connected in series to each LED
-#
-# Programmer: Adrian Josele G. Quional
+# ================================================== 
+"""
+Project objective: Blink four external LEDs connected to the Raspberry Pi Pico W using for loop
+
+Hardware and connections used:
+    Anode of four LEDs to GPIO pins 6-9 of Raspberry Pi Pico W
+    220 ohm resistor connected in series to each LED
+
+Author: Adrian Josele G. Quional
+"""
+# ==================================================
 
 # modules
 from machine import Pin
