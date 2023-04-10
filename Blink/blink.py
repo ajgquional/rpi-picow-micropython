@@ -1,5 +1,10 @@
-# Project objective: Blink the onboard LED of the Raspberry Pi Pico W
-# Programmer: Adrian Josele G. Quional
+# ================================================== 
+"""
+Project objective: Blink the onboard LED of the Raspberry Pi Pico W
+
+Author: Adrian Josele G. Quional
+"""
+# ==================================================
 
 # modules
 from machine import Pin # to be able to work with the hardware
