@@ -1,12 +1,16 @@
-# Project objective: Light up an external LED when a push button is pressed
-#
-# Hardware and connections used:
-#   Push button to GPIO Pin 16
-#   10000 ohm pull-down resistor for the push button
-#   LED to GPIO Pin 15
-#   220 ohm resistor for LED
-# 
-# Programmer: Adrian Josele G. Quional
+# ================================================== 
+""" 
+Project objective: Light up an external LED when a push button is pressed
+
+Hardware and connections used:
+    Push button to GPIO Pin 16
+    10k ohm pull-down resistor for the push button
+    LED anode to GPIO Pin 15
+    220 ohm resistor for LED
+    
+Author: Adrian Josele G. Quional
+"""
+# ==================================================
 
 # modules
 from machine import Pin
