@@ -1,5 +1,10 @@
-# Project objective: Blink the onboard LED of the Raspberry Pi Pico W using the Picozero module
-# Programmer: Adrian Josele G. Quional
+# ================================================== 
+"""
+Project objective: Blink the onboard LED of the Raspberry Pi Pico W using the Picozero module
+
+Author: Adrian Josele G. Quional
+"""
+# ==================================================
 
 # modules
 from picozero import pico_led
