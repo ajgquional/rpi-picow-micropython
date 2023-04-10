@@ -1,11 +1,15 @@
-# Project objective: Control the brightness of an LED using a potentiometer and picozero module
-# 
-# Hardware and connections used:
-#   LED to GPIO Pin 15
-#   220 ohm resistor for the LED
-#   Potentiometer SIG pin to GPIO Pin 28 (capable of ADC)
-#
-# Programmer: Adrian Josele G. Quional
+# ================================================== 
+"""
+Project objective: Control the brightness of an LED using a potentiometer and picozero module
+ 
+Hardware and connections used:
+    LED to GPIO Pin 15
+    220 ohm resistor for the LED
+    Potentiometer SIG pin to GPIO Pin 28 (capable of ADC)
+
+Author: Adrian Josele G. Quional
+"""
+# ================================================== 
 
 # importing Pot and LED class from the picozero module
 from picozero import Pot, LED
