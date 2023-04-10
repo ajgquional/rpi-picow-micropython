@@ -128,9 +128,28 @@ To install modules to the Raspberry Pi Pico W, first make sure that the board is
 
 1. Look for the actual Python code of the module that you wanted to save in Pico W. For picozero, the code can be found here: https://raw.githubusercontent.com/RaspberryPiFoundation/picozero/master/picozero/picozero.py?token=GHSAT0AAAAAABRLTKWZDBSYBE54NJ7AIZ6MYSENI2A
 2. Copy and paste the entire code as a new file in Thonny.
+
+<p align='center'>
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/c573783918e1939c8e655ad0c7c3f9f20beb1ad2/Installing-picozero-via-manual-saving-Part1.png" alt="Installing picozero via manual saving Part 1">
+</p>
+
 3. Save the file to Raspberry Pi Pico. Go inside the "lib" folder, and in there, save the file as "picozero.py."
+
+<p align='center'>
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/c573783918e1939c8e655ad0c7c3f9f20beb1ad2/Installing-picozero-via-manual-saving-Part2.png" alt="Installing picozero via manual saving Part 2">
+</p>
+
 4. As a verification, you would see, when the "Files" view is enabled, that "picozero.py" is saved under the lib folder.
-5. As a final verification, open <a href="https://github.com/ajgquional/rpi-picow-micropython/blob/fbb70b24b01a84577c0d2e0c3a9aa24f74f51ccb/Blink/blink_picozero.py">blink_picozero.py</a> then run it. You should see that the onboard LED of Pico W blinking. (Note: Should you wish to install other modules not available via the Thonny Package Manager, you can follow the same process, outlined here, to install the necessary module/s.) 
+
+<p align='center'>
+  <img src="https://github.com/ajgquional/rpi-picow-micropython/blob/c573783918e1939c8e655ad0c7c3f9f20beb1ad2/Installing-picozero-via-manual-saving-Part3.png" alt="Installing picozero via manual saving Part 3">
+</p>
+
+5. As a final verification, open <a href="https://github.com/ajgquional/rpi-picow-micropython/blob/fbb70b24b01a84577c0d2e0c3a9aa24f74f51ccb/Blink/blink_picozero.py">blink_picozero.py</a> then run it. You should see that the onboard LED of Pico W blinking. (Note: Should you wish to install other modules not available via the Thonny Package Manager, you can follow the same process, outlined here, to install the necessary module/s.)
+
+#### Final notes about the installation of modules:
+* The first method (via the Thonny Package Manager) is the most convenient; however, if the modules you're looking for aren't available in the package manager, then you can't use this method.
+* The second method (manual saving) is more flexible but is more tedious. You should use this method only if the modules that you wanted to install aren't available in the Thonny Package Manager (such as some LCD modules). 
 
 ### Useful links:
 * <b>Raspberry Pi Pico/Pico W Documentation:</b> https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html
@@ -153,6 +172,7 @@ To install modules to the Raspberry Pi Pico W, first make sure that the board is
   * <b>Servo Motor</b> - contains files related to the use of servo motors
   * <b>Ultrasonic Distance Sensor</b> - contains files related to the use of an HC-SR04 Ultrasonic Distance Sensor
   * <b>Web</b> - contains several directories containing files interfacing Raspberry Pi Pico W to the web (additional details are contained in the README file of that      directory)
-* Programs would work for both Raspberry Pi Pico and Pico W, except for programs blinking the onboard LED which is accessed differently for Pico and Pico W (check comments on  <a href="https://github.com/ajgquional/rpi-picow-micropython/blob/5d93332fbf7df72a722749734f5b3f13ae6fe678/Blink/blink.py">blink.py</a>) and for web-related projects which are obviously only for Pico W (having a WiFi module).
+* Programs would work for both Raspberry Pi Pico and Pico W, except for programs blinking the onboard LED which is accessed differently for Pico and Pico W if purely using the machine library (check comments on  <a href="https://github.com/ajgquional/rpi-picow-micropython/blob/5d93332fbf7df72a722749734f5b3f13ae6fe678/Blink/blink.py">blink.py</a>) and for web-related projects which are obviously only for Pico W (having a WiFi module).
 * Only Raspberry Pi Pico is used in Wokwi simulations since Pico W is not yet available in Wokwi. Should it become available in Wokwi, simulations would be updated to use Raspberry Pi Pico W.  
-* Contents of this repository would definitely be updated as more devices are interafaced and verified to work with Raspberry Pi Pico W. 
+* Contents of this repository would definitely be updated as more devices are interfaced and verified to work with the Raspberry Pi Pico W. 
+* Disregard the images (detailing the steps to get started with Pico W) uploaded in the main directory. They are only uploaded to be used for this README file.
