@@ -1,10 +1,14 @@
-# Project objective: To test a passive buzzer to play an alarm sound at one second interval
-#
-# Hardware and connections used:
-#   Passive buzzer GND to Raspberry Pi Pico GND
-#	Passive buzzer + Pin to GPIO Pin 15
-#
-# Programmer: Adrian Josele G. Quional
+# ================================================== 
+""" 
+Project objective: To test a passive buzzer to play an alarm sound at one second interval
+
+Hardware and connections used:
+    Passive buzzer GND to Raspberry Pi Pico GND
+    Passive buzzer + Pin to GPIO Pin 15
+
+Author: Adrian Josele G. Quional
+"""
+# ==================================================
 
 # if passive buzzer is used, import the Speaker class from picozero
 from picozero import Speaker
