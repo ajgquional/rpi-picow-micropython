@@ -1,11 +1,17 @@
-# Project objective: Read voltage from the liquid level sensor as it is being submerged to different liquid depths
-#
-# Hardware and connections used:
-#	Liquid level sensor + Pin to 3.3 V
-#	Liquid level sensor - Pin to GND
-#	Liquid level sensor S Pin to GPIO 28
-#
-# Programmer: Adrian Josele G. Quional
+# ================================================== 
+""" 
+Project objectives:
+    Read voltage from the liquid level sensor as it is being submerged to varying liquid depths
+    Print readings to the console
+
+Hardware and connections used:
+    Liquid level sensor + Pin to 3.3 V
+    Liquid level sensor - Pin to GND
+    Liquid level sensor S Pin to GPIO 28
+
+Author: Adrian Josele G. Quional
+"""
+# ==================================================
 
 # modules
 from machine import Pin, ADC
