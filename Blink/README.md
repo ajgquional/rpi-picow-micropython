@@ -1,9 +1,9 @@
 # Wokwi Raspberry Pi Pico Simulation Links
 
-* Blink: https://wokwi.com/projects/357620757080105985
-* Blink using Picozero: https://wokwi.com/projects/360255946144040961
-* Blink four external LEDs: https://wokwi.com/projects/357620736749264897
-* Blink four external LEDs using for loop: https://wokwi.com/projects/357642713969774593
+* <b>Blink:</b> https://wokwi.com/projects/357620757080105985
+* <b>Blink using Picozero:</b> https://wokwi.com/projects/360255946144040961
+* <b>Blink four external LEDs:</b> https://wokwi.com/projects/357620736749264897
+* <b>Blink four external LEDs using for loop:</b> https://wokwi.com/projects/357642713969774593
 
 # Circuit diagram: Four external LEDs to Raspberry Pi Pico W
 
