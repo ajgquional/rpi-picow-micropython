@@ -1,11 +1,15 @@
-# Project objectives: 
-#   Read inputs from the potentiometer and display values to the console
-#   Convert analog values to voltage then display it to the console
-#
-# Hardware and connections used:
-#   Potentiometer SIG pin to GPIO Pin 28 (capable of ADC)
-#
-# Programmer: Adrian Josele G. Quional
+# ==================================================
+"""
+Project objectives: 
+    Read inputs from the potentiometer and display values to the console
+    Convert analog values to voltage then display it to the console
+
+Hardware and connections used:
+    Potentiometer SIG pin to GPIO Pin 28 (capable of ADC)
+
+Author: Adrian Josele G. Quional
+"""
+# ==================================================
 
 # modules
 from machine import Pin, ADC    # ADC class is needed to create an ADC object
