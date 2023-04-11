@@ -18,7 +18,7 @@
 ### Pinout:
 
 <p align='center'>
-  <img src="https://www.raspberrypi.com/documentation/microcontrollers/images/pico-pinout.svg" alt="Raspberry Pi Pico W Pinout">
+  <img src="https://www.raspberrypi.com/documentation/microcontrollers/images/picow-pinout.svg" alt="Raspberry Pi Pico W Pinout">
 </p>
 
 ### Getting started with programming the Raspberry Pi Pico W:
