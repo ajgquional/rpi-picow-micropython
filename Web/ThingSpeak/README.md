@@ -18,3 +18,9 @@
 ![Sample ThingSpeak dashboard](https://github.com/ajgquional/rpi-picow-micropython/blob/153df7b05e920592b7e6da4a7f30a20f338956fa/Web/ThingSpeak/Sample-ThingSpeak-Dashboard.png)
 
 6. Should you need to modify the functionality of the device (say, not send and visualize the onboard temperature in a ThingSpeak dashboard), the program and the dashboard must be modified, but the steps to integrate the board to ThingSpeak is still the same.
+
+# Additional references for working with ThingSpeak and MATLAB:
+
+* <b>Getting Started with ThingSpeak | IoT from Data to Action, Part 1:</b> https://www.youtube.com/watch?v=ZayVoLxeRq4
+* <b>Writing and Reading Data in ThingSpeak | IoT from Data to Action, Part 2:</b> https://www.youtube.com/watch?v=DpowxIdgv8A
+* <b>Analysis and Visualization in ThingSpeak | IoT from Data to Action, Part 3:</b> https://www.youtube.com/watch?v=d7vrh_6O_8o
