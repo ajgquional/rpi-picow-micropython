@@ -21,6 +21,8 @@
   <img src="https://www.raspberrypi.com/documentation/microcontrollers/images/picow-pinout.svg" alt="Raspberry Pi Pico W Pinout">
 </p>
 
+<b>Interactive Raspberry Pi Pico Pinout:</b> https://pico.pinout.xyz/
+
 ### Getting started with programming the Raspberry Pi Pico W:
 
 #### Installing the MicroPython firmware:
@@ -176,3 +178,17 @@ To install modules to the Raspberry Pi Pico W, first make sure that the board is
 * Only Raspberry Pi Pico is used in Wokwi simulations since Pico W is not yet available in Wokwi. Should it become available in Wokwi, simulations would be updated to use Raspberry Pi Pico W.  
 * Contents of this repository would definitely be updated as more devices are interfaced and verified to work with the Raspberry Pi Pico W. 
 * Disregard the images (detailing the steps to get started with Pico W) uploaded in the main directory. They are only uploaded to be used for this README file.
+
+# Collection of web articles/references on Raspberry Pi Pico/Pico W:
+* <a href="https://www.hackster.io/news/pi-pico-sdk-1-5-0-release-adds-bluetooth-support-7fe4d09da432?f8e8b1feff822753a39b21de69259fd6">Pi Pico SDK 1.5.0 Release Adds Bluetooth Support</a>
+* <a href="https://www.hackster.io/news/vlad-tomoiaga-s-fakepga-turns-a-raspberry-pi-pico-or-other-rp2040-board-into-a-slow-cheap-fpga-91f3cc98072c">Vlad Tomoiagă's FakePGA Turns a Raspberry Pi Pico or Other RP2040 Board Into a Slow, Cheap "FPGA"</a>
+* <a href="https://www.hackster.io/news/the-raspberry-pi-pico-installer-is-a-one-shot-way-to-set-up-an-rp2040-toolchain-on-windows-a905eb5ce1ec">The Raspberry Pi Pico Installer Is a One-Shot Way to Set Up an RP2040 Toolchain on Windows</a>
+* <a href="https://www.raspberrypi.com/news/did-i-close-the-garage-door-let-raspberry-pi-check-for-you/">Did I close the garage door? Let Raspberry Pi check for you</a>
+* <a href="https://www.arm.com/resources/education/schools/content/raspberry-pi-pico-for-schools?fbclid=IwAR3bsCCkbVTrXIwRZH2imGxXU_SvYRvnNDKMAsK5frxmR6vZxRfoZDUv6f8">Raspberry Pi Pico Projects for Schools</a>
+* <a href="https://www.hackster.io/news/adafruit-s-picowbell-adalogger-turns-a-raspberry-pi-pico-or-pico-w-into-a-compact-datalogger-a59654f13ce5">Adafruit's PiCowbell Adalogger Turns a Raspberry Pi Pico or Pico W Into a Compact Datalogger</a>
+* <a href="https://www.raspberrypi.com/news/theremin-like-pico-h-musical-instrument/">Theremin-like Pico H musical instrument</a>
+* <a href="https://resources.embeddedcomputing.com/Embedded-Computing-Design/Capacitive-Touch-Input-With-the-Raspberry-Pi-RP2040-Pico">Capacitive Touch Input With the Raspberry Pi RP2040 Pico</a>
+* <a href="https://www.raspberrypi.com/news/scottoergo-ergonomic-hand-wired-keyboard/">ScottoErgo: ergonomic hand-wired keyboard</a>
+* <a href="https://www.hackster.io/news/micropython-1-20-0-launches-with-mip-a-dedicated-package-manager-and-raspberry-pi-pico-w-support-258033aa9d45?a1255c9dbdcd635143d172dee1b8c0fe">MicroPython 1.20.0 Launches with Mip, a Dedicated Package Manager, and Raspberry Pi Pico W Support</a>
+* <a href="https://www.deeplearning.ai/the-batch/how-to-run-pilotnet-on-a-raspberry-pi-pico-microcontroller/?utm_campaign=The%20Batch&utm_content=250169984&utm_medium=social&utm_source=facebook&hss_channel=fbp-1027125564106325">Deep Learning at (Small) Scale: How to run PilotNet on a Raspberry Pi Pico microcontroller</a>
+* <a href="https://www.digikey.com/en/articles/getting-started-raspberry-pi-pico-multicore-microcontroller-board?fbclid=IwAR1LiYSri3n3fgemzMgCNmJPHntmQ_a-XreTN4mENiztzaW8HGSkePLO0u0">Getting Started with the Raspberry Pi Pico Multicore Microcontroller Board Using C</a>
