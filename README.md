@@ -197,3 +197,9 @@ To install modules to the Raspberry Pi Pico W, first make sure that the board is
 * <a href="https://www.raspberrypi.com/news/new-functionality-bluetooth-for-pico-w/">New functionality: Bluetooth for Pico W</a>
 * <a href="https://www.hackster.io/news/raspberry-pi-gives-the-pico-w-a-bluetooth-boost-classic-and-ble-modes-now-available-in-micropython-5a988ae38c64">Raspberry Pi Gives the Pico W a Bluetooth Boost, Classic and BLE Modes Now Available in MicroPython</a>
 * <a href="https://www.digikey.com/en/maker/projects/generating-text-with-chatgpt-pico-w-circuitpython/12dee4ec06a94877a2ca86a021d6df69?fbclid=IwAR3vKsLm2NfW9XlIxWfq4VTcPvCDgOLmKM29rq5GxXFIOCICvudNoUHyCVY">Generating Text with ChatGPT, Pico W, & CircuitPython</a>
+* <a href="https://www.hackster.io/news/open-source-experiential-robotics-platform-xrp-kit-now-available-for-pre-order-c9cfebedc1ff?fbclid=IwAR3nUlEWlrHERHP4QWPVkX2-U0RWn7NOLJfhWLEWs_mS9ZnNOCuuJ-hPZ9Q">Open Source Experiential Robotics Platform (XRP) Kit Now Available for Pre-Order</a>
+* <a href="https://www.hackster.io/news/gary-sims-piccolobasic-is-a-minimalist-programming-language-for-the-raspberry-pi-pico-rp2040-3a53ec2fc684">Gary Sims' PiccoloBASIC Is a Minimalist Programming Language for the Raspberry Pi Pico, RP2040</a>
+* <a href="https://www.raspberrypi.com/news/gps-pothole-tracker/">GPS pothole tracker</a>
+* <a href="https://www.raspberrypi.com/news/set-sail-in-the-pico-powered-roboat/">Set sail in the Pico-powered ‘Roboat’</a>
+* <a href="https://www.hackster.io/news/set-sail-with-the-raspberry-pi-pico-w-5c581fbc4c62">Set Sail with the Raspberry Pi Pico W</a>
+* <a href="https://www.raspberrypi.com/news/autoflash-multiple-raspberry-pi-picos-in-no-time-at-all/">Autoflash multiple Raspberry Pi Picos in no time at all</a>
