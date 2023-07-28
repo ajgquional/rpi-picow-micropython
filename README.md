@@ -203,3 +203,5 @@ To install modules to the Raspberry Pi Pico W, first make sure that the board is
 * <a href="https://www.raspberrypi.com/news/set-sail-in-the-pico-powered-roboat/">Set sail in the Pico-powered ‘Roboat’</a>
 * <a href="https://www.hackster.io/news/set-sail-with-the-raspberry-pi-pico-w-5c581fbc4c62">Set Sail with the Raspberry Pi Pico W</a>
 * <a href="https://www.raspberrypi.com/news/autoflash-multiple-raspberry-pi-picos-in-no-time-at-all/">Autoflash multiple Raspberry Pi Picos in no time at all</a>
+* <a href="https://www.hackster.io/news/mark-stevens-picodebugger-aims-to-make-picoprobe-debugging-tidier-neater-and-more-flexible-6d6846368182">Mark Stevens' PicoDebugger Aims to Make PicoProbe Debugging Tidier, Neater, and More Flexible</a>
+* <a href="https://www.raspberrypi.com/news/pico-powered-chess-robot-plays-dirty-using-chatgpt/">Pico-powered chess robot plays dirty using ChatGPT</a>
