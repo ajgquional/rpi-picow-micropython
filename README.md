@@ -205,3 +205,6 @@ To install modules to the Raspberry Pi Pico W, first make sure that the board is
 * <a href="https://www.raspberrypi.com/news/autoflash-multiple-raspberry-pi-picos-in-no-time-at-all/">Autoflash multiple Raspberry Pi Picos in no time at all</a>
 * <a href="https://www.hackster.io/news/mark-stevens-picodebugger-aims-to-make-picoprobe-debugging-tidier-neater-and-more-flexible-6d6846368182">Mark Stevens' PicoDebugger Aims to Make PicoProbe Debugging Tidier, Neater, and More Flexible</a>
 * <a href="https://www.raspberrypi.com/news/pico-powered-chess-robot-plays-dirty-using-chatgpt/">Pico-powered chess robot plays dirty using ChatGPT</a>
+* <a href="https://www.hackster.io/news/phil-barrett-s-picocnc-aims-to-provide-professional-laser-lathe-and-router-control-at-a-low-cost-36ea251b5acc?fbclid=IwAR1XdQc_5O7vZpN8ByI3eEDiD4Ouecx1SNPdF0ElBGsyEpsQgYrW3Opntyg">Phil Barrett's PicoCNC Aims to Provide Professional Laser, Lathe, and Router Control at a Low Cost</a>
+* <a href="https://www.raspberrypi.com/news/how-i-made-the-picocray-hackspace-69/">How I made the PicoCray | HackSpace #69</a>
+* <a href="https://www.hackster.io/news/rishin-goswami-s-picosiggen-aims-to-turn-a-raspberry-pi-pico-into-a-100ms-s-waveform-generator-124dc23de761">Rishin Goswami's PicoSigGen Aims to Turn a Raspberry Pi Pico Into a 100MS/s Waveform Generator</a>
