@@ -210,3 +210,6 @@ To install modules to the Raspberry Pi Pico W, first make sure that the board is
 * <a href="https://www.hackster.io/news/rishin-goswami-s-picosiggen-aims-to-turn-a-raspberry-pi-pico-into-a-100ms-s-waveform-generator-124dc23de761">Rishin Goswami's PicoSigGen Aims to Turn a Raspberry Pi Pico Into a 100MS/s Waveform Generator</a>
 * <a href="https://www.hackster.io/news/dmitry-grinberg-s-romram-adds-8mb-of-external-ram-to-the-humble-raspberry-pi-rp2040-27f2d7363f10?fbclid=IwAR2xuEl2nvlsQ9qP1XzTKCAdIbYWFC5Od8lpKjbjVvmtw6DAj_kuJgcR8oI">Dmitry Grinberg's ROMRAM Adds 8MB of External RAM to the Humble Raspberry Pi RP2040</a>
 * <a href="https://www.raspberrypi.com/news/getting-to-grips-with-bluetooth-on-pico-w/">Getting to grips with Bluetooth on Pico W</a>
+* <a href="https://www.hackster.io/news/buckle-up-for-adventure-f520fdb14bbf">Buckle Up for Adventure</a>
+* <a href="https://www.raspberrypi.com/news/track-your-run-to-the-moon-with-a-raspberry-pi-powered-ladder/">Track your run to the Moon with a Raspberry Pi-powered ladder</a>
+* <a href="https://blog.tindie.com/2023/09/pico-qwiicreset-prototyping-assistant/?fbclid=IwAR3EmyavUN-uFPt85tlJhUjCDX55YGYsjA-8U5uhF6hvPxh4lyLF5zdVwPc">Pico QwiicReset Prototyping Assistant</a>
