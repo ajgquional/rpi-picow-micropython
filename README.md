@@ -213,3 +213,6 @@ To install modules to the Raspberry Pi Pico W, first make sure that the board is
 * <a href="https://www.hackster.io/news/buckle-up-for-adventure-f520fdb14bbf">Buckle Up for Adventure</a>
 * <a href="https://www.raspberrypi.com/news/track-your-run-to-the-moon-with-a-raspberry-pi-powered-ladder/">Track your run to the Moon with a Raspberry Pi-powered ladder</a>
 * <a href="https://blog.tindie.com/2023/09/pico-qwiicreset-prototyping-assistant/?fbclid=IwAR3EmyavUN-uFPt85tlJhUjCDX55YGYsjA-8U5uhF6hvPxh4lyLF5zdVwPc">Pico QwiicReset Prototyping Assistant</a>
+* <a href="https://www.raspberrypi.com/news/this-pico-powered-belt-pulls-you-north/">This Pico-powered belt pulls you north</a>
+* <a href="https://hackaday.com/2023/09/30/a-1970s-mask-rom-mcu-spills-its-secrets/">A 1970S MASK ROM MCU SPILLS ITS SECRETS</a>
+* <a href="https://www.hackster.io/news/andre-costa-s-pico-w-air-is-a-raspberry-pi-pico-w-carrier-board-for-air-quality-monitoring-0ffea3cc7e36?fbclid=IwAR14sd7f4LIOz0smMs7soz0HgACo4-goGAJdUTZlUGusXHqaTThIBZr7gAM">André Costa's Pico W Air Is a Raspberry Pi Pico W Carrier Board for Air Quality Monitoring</a>
