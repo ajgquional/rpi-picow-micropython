@@ -218,4 +218,4 @@ To install modules to the Raspberry Pi Pico W, first make sure that the board is
 * <a href="https://www.hackster.io/news/andre-costa-s-pico-w-air-is-a-raspberry-pi-pico-w-carrier-board-for-air-quality-monitoring-0ffea3cc7e36?fbclid=IwAR14sd7f4LIOz0smMs7soz0HgACo4-goGAJdUTZlUGusXHqaTThIBZr7gAM">André Costa's Pico W Air Is a Raspberry Pi Pico W Carrier Board for Air Quality Monitoring</a>
 * <a href="https://www.hackster.io/news/tim-hanewich-s-scout-flight-controller-pushes-micropython-on-the-raspberry-pi-pico-to-the-limit-e475db41959e">Tim Hanewich's Scout Flight Controller Pushes MicroPython on the Raspberry Pi Pico to the Limit</a>
 * <a href="https://hackaday.io/project/192152-handheld-linux-terminal-haliterm">Handheld Linux Terminal [HaLiTerm]</a>
-
+* <a href="https://www.hackster.io/christophe-favergeon/synthesize-music-with-animations-on-a-raspberry-pi-pico-9fcd3f">Synthesize music with animations on a Raspberry Pi Pico</a>
