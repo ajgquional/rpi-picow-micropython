@@ -219,3 +219,5 @@ To install modules to the Raspberry Pi Pico W, first make sure that the board is
 * <a href="https://www.hackster.io/news/tim-hanewich-s-scout-flight-controller-pushes-micropython-on-the-raspberry-pi-pico-to-the-limit-e475db41959e">Tim Hanewich's Scout Flight Controller Pushes MicroPython on the Raspberry Pi Pico to the Limit</a>
 * <a href="https://hackaday.io/project/192152-handheld-linux-terminal-haliterm">Handheld Linux Terminal [HaLiTerm]</a>
 * <a href="https://www.hackster.io/christophe-favergeon/synthesize-music-with-animations-on-a-raspberry-pi-pico-9fcd3f">Synthesize music with animations on a Raspberry Pi Pico</a>
+* <a href="https://www.hackster.io/news/michael-wessel-s-raspberry-pi-pico-powered-6116-sram-emulator-gives-vintage-sbcs-a-major-overhaul-2324810b773c?fbclid=IwAR0JCWsvTRej3jnfE3mLCowsHIorXRKLYulz1RZh813tv1pJ0HilOJKTzDg">Michael Wessel's Raspberry Pi Pico-Powered 6116 SRAM Emulator Gives Vintage SBCs a Major Overhaul</a>
+* <a href="https://hackaday.io/project/175712-kamina-keyboard">Kamina Keyboard</a>
