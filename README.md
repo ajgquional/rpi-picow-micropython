@@ -222,3 +222,4 @@ To install modules to the Raspberry Pi Pico W, first make sure that the board is
 * <a href="https://www.hackster.io/news/michael-wessel-s-raspberry-pi-pico-powered-6116-sram-emulator-gives-vintage-sbcs-a-major-overhaul-2324810b773c?fbclid=IwAR0JCWsvTRej3jnfE3mLCowsHIorXRKLYulz1RZh813tv1pJ0HilOJKTzDg">Michael Wessel's Raspberry Pi Pico-Powered 6116 SRAM Emulator Gives Vintage SBCs a Major Overhaul</a>
 * <a href="https://hackaday.io/project/175712-kamina-keyboard">Kamina Keyboard</a>
 * <a href="https://hackaday.com/2024/01/14/saving-pic-microcontrollers-with-diy-programmer/">SAVING PIC MICROCONTROLLERS WITH DIY PROGRAMMER</a>
+* <a href="https://tahmidmc.blogspot.com/2024/01/quick-and-dirty-pic16f72-programmer.html">Quick and dirty PIC16F72 programmer with the Pico</a>
