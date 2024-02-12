@@ -225,3 +225,5 @@ To install modules to the Raspberry Pi Pico W, first make sure that the board is
 * <a href="https://tahmidmc.blogspot.com/2024/01/quick-and-dirty-pic16f72-programmer.html">Quick and dirty PIC16F72 programmer with the Pico</a>
 * <a href="https://www.digikey.com/en/maker/projects/wirelessly-controlling-the-pico-arp-with-the-mini-controller-for-pico/e56edcce3a7f42f98386c6ef01e8114d">Wirelessly Controlling the Pico ARP with the Mini Controller for Pico</a>
 * <a href="https://www.hackster.io/xpienet/dual-spiral-marble-clock-3aacf8">Dual Spiral Marble Clock</a>
+* <a href="https://www.raspberrypi.com/news/a-big-bang-update-for-tensorflow-lite-for-microcontrollers/">A big bang update for TensorFlow Lite for Microcontrollers</a>
+* <a href="https://hackaday.io/project/192576-picopd-usb-c-pd-30-pps-trigger-with-rp2040">https://hackaday.io/project/192576-picopd-usb-c-pd-30-pps-trigger-with-rp2040</a>
