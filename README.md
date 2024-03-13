@@ -226,4 +226,8 @@ To install modules to the Raspberry Pi Pico W, first make sure that the board is
 * <a href="https://www.digikey.com/en/maker/projects/wirelessly-controlling-the-pico-arp-with-the-mini-controller-for-pico/e56edcce3a7f42f98386c6ef01e8114d">Wirelessly Controlling the Pico ARP with the Mini Controller for Pico</a>
 * <a href="https://www.hackster.io/xpienet/dual-spiral-marble-clock-3aacf8">Dual Spiral Marble Clock</a>
 * <a href="https://www.raspberrypi.com/news/a-big-bang-update-for-tensorflow-lite-for-microcontrollers/">A big bang update for TensorFlow Lite for Microcontrollers</a>
-* <a href="https://hackaday.io/project/192576-picopd-usb-c-pd-30-pps-trigger-with-rp2040">https://hackaday.io/project/192576-picopd-usb-c-pd-30-pps-trigger-with-rp2040</a>
+* <a href="https://hackaday.io/project/192576-picopd-usb-c-pd-30-pps-trigger-with-rp2040">PicoPD - USB-C PD 3.0 PPS Trigger with RP2040</a>
+* <a href="https://hackaday.com/2023/12/27/raspberry-pi-pico-parallel-mandelbrot-computation/">RASPBERRY PI PICO PARALLEL MANDELBROT COMPUTATION</a>
+* <a href="https://www.hackster.io/news/david-slik-s-asynchronous-array-of-raspberry-pi-picos-aarpp-is-a-tile-based-rp2040-supercomputer-b5a188bbd9b0">David Slik's Asynchronous Array of Raspberry Pi Picos, AARPP, Is a Tile-Based RP2040 Supercomputer</a>
+* <a href="https://www.pcgamer.com/microsofts-bitlocker-and-tpm-encryption-combo-defeated-with-a-dollar10-raspberry-pi-and-a-bit-of-braininess/">Microsoft's Bitlocker & TPM encryption combo defeated with a $10 Raspberry Pi and a bit of braininess</a>
+* <a href="https://www.hackster.io/news/thomas-roth-breaks-microsoft-s-bitlocker-in-under-a-minute-with-a-4-raspberry-pi-pico-6ac738e6ec77">Thomas Roth Breaks Microsoft's BitLocker in Under a Minute — with a $4 Raspberry Pi Pico</a>
