@@ -244,3 +244,5 @@ To install modules to the Raspberry Pi Pico W, first make sure that the board is
 * <a href="https://medium.com/@subirmaity/a-simple-neural-network-implementation-approach-in-micropython-for-deep-learning-application-760ab35cb538">Neural Network Implementation in MicroPython for TinyML</a>
 * <a href="https://medium.com/@subirmaity/raspberry-pi-pico-sensor-data-display-on-webpage-using-serial-port-97cc3888883e">Raspberry Pi Pico Sensor Data Display on Webpage using Serial Port</a>
 * <a href="https://medium.com/@subirmaity/hand-gesture-recognition-for-numbers-using-tinyml-323d2a524c3e">Hand Gesture Recognition for Numbers using TinyML</a>
+* <a href="https://www.hackster.io/news/jan-dvorak-s-software-defined-radio-is-built-from-a-raspberry-pi-pico-and-very-little-else-332a12e6f216">Jan Dvořák's Software-Defined Radio Is Built From a Raspberry Pi Pico — And Very Little Else</a>
+* <a href="https://www.hackster.io/news/piwings-is-a-raspberry-pi-pico-based-flight-controller-for-drones-666d628a84e8">PiWings Is a Raspberry Pi Pico-Based Flight Controller for Drones</a>
